@@ -14,6 +14,7 @@ As the community ecosystem continues to evolve, our project matrix has expanded 
 - [MCTap-GNA > Public welfare Minecraft Global Network Acceleration service](https://gna.mctap.org)
 - [MCTap-BGS > Public welfare Minecraft containerized panel hosting service](https://bgs.mctap.org)
 - [TapXAPI > Public welfare Minecraft developer resource mirror acceleration service](https://tapapi.mctap.org)
+
 Open-source Project Repositories:
 - [TapR > A lightweight, WebUI-managed Minecraft traffic forwarding solution](https://github.com/ProjectTapX/TapR)
 - [TapS > A modern, distributed Docker game server manager with multi-user support and Minecraft-friendly WebUI](https://github.com/ProjectTapX/TapS)
@@ -25,6 +26,7 @@ Open-source Project Repositories:
 - [MCTap-GNA > 公益性 Minecraft 全球网络加速 (Global Network Acceleration) 服务](https://gna.mctap.org)
 - [MCTap-白给服 > 公益性 Minecraft 容器化面板服托管服务](https://bgs.mctap.org)
 - [TapAPI > 公益性 Minecraft 开发者资源镜像加速服务](https://tapapi.mctap.org)
+
 它们开源的项目仓库：
 - [TapR > 轻量级、可视化 WebUI 驱动的 Minecraft 流量转发解决方案](https://github.com/ProjectTapX/TapR)
 - [TapS > 现代化、分布式架构的 Docker 游戏服务端管理系统（多用户支持 & UI 友好）](https://github.com/ProjectTapX/TapS)
